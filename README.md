@@ -11,14 +11,6 @@ Before running the script, install the following dependencies:
 pip install -r requirements.txt
 ```
 
-### Download link of AnyPhotoDoc6300 benchmark dataset 
-
-- HuggingFace
-
-[https://drive.google.com/drive/folders/1NJZtaTh4erKFcXDcs1t1JyF2hc1EBOA3?usp=drive_link](https://huggingface.co/datasets/hanquansanren/AnyPhotoDoc6300)
-
-
-
 
 ### How to play
 To run the DVD model as shown above:
@@ -41,3 +33,12 @@ mpiexec -n 1 python run_training.py \
   --train_name 'train_TDiff' 
 ```
 
+### Download link of inference results in DocUNet and DIR300 benchmarks
+
+https://drive.google.com/drive/folders/1WNMcXx4OApIy789F-iO3X2dJmmDUK_QI?usp=drive_link
+
+### Download link of AnyPhotoDoc6300 benchmark dataset 
+
+- HuggingFace
+
+[https://drive.google.com/drive/folders/1NJZtaTh4erKFcXDcs1t1JyF2hc1EBOA3?usp=drive_link](https://huggingface.co/datasets/hanquansanren/AnyPhotoDoc6300)
