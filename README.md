@@ -1,7 +1,7 @@
 ## DvD: Unleashing a Generative Paradigm for Document Dewarping via Coordinates-based Diffusion Model 
 <p align="center">
   <a href="https://huggingface.co/datasets/hanquansanren/AnyPhotoDoc6300">
-    <img src="https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-Benchmark-90EE90?style=flat" alt="Benchmark">
+    <img src="https://img.shields.io/badge/https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1WNMcXx4OApIy789F-iO3X2dJmmDUK_QI%3Fusp%3Ddrive_link?style=flat&logo=google%20drive&logoColor=rgb&color=red" alt="Benchmark">
   </a>
   <a href="https://huggingface.co/datasets/hanquansanren/AnyPhotoDoc6300">
     <img src="https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-Benchmark-90EE90?style=flat" alt="Benchmark">
