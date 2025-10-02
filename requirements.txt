@@ -1,0 +1,22 @@
+# conda install gxx_linux-64
+# conda install  mpi4py tensorboardx #-c conda-forge
+# pip install torch==2.1.1 torchvision==0.16.1 --index-url https://download.pytorch.org/whl/cu118
+# pip install mmcv==2.2.0 -f https://download.openmmlab.com/mmcv/dist/cu118/torch2.1/index.html
+opencv-python
+jpeg4py
+packaging
+imageio
+scipy
+h5py
+termcolor
+# mpi4py
+pycocotools
+blobfile
+# tensorflow
+einops
+timm
+scikit-image
+pandas
+numpy==1.26.4
+hdf5storage
+
