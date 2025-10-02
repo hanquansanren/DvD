@@ -1,5 +1,8 @@
 ## DvD: Unleashing a Generative Paradigm for Document Dewarping via Coordinates-based Diffusion Model 
 
+We present DvD, the first diffusion model for document dewarping. Unlike the existing paradigms, DVD can yield a precise yet faithful document through a novel mapping generation paradigm, where we operate coordinate-level denoising to generate coordinate mappings. We further introduce a large-scale and fine-grained benchmark, AnyPhotoDoc6300, enabling more comprehensive evaluation.
+
+
 
 ### Quick Start
 Before running the script, install the following dependencies:
