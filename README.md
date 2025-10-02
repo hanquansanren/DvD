@@ -1,4 +1,4 @@
-## DvD: Unleashing a Generative Paradigm for Document Dewarping via Coordinates-based Diffusion Model (under approval) 
+## DvD: Unleashing a Generative Paradigm for Document Dewarping via Coordinates-based Diffusion Model 
 
 
 ### Quick Start
@@ -10,14 +10,11 @@ pip install -r requirements.txt
 
 ### Download link of AnyPhotoDoc6300 benchmark dataset 
 
-Google Drive (A sample subset link for review) 
-  
-https://drive.google.com/drive/folders/1NJZtaTh4erKFcXDcs1t1JyF2hc1EBOA3?usp=drive_link
+- HuggingFace
 
-The full dataset had been uploaded to HuggingFace. Since the anonymity policy, we have not yet made the link public. 
-Here, we just showcase its snapshot.
+[https://drive.google.com/drive/folders/1NJZtaTh4erKFcXDcs1t1JyF2hc1EBOA3?usp=drive_link](https://huggingface.co/datasets/hanquansanren/AnyPhotoDoc6300)
 
- ![dataset snapshot](./asset/hf.png) 
+
 
 
 ### How to play
@@ -31,7 +28,7 @@ https://drive.google.com/drive/folders/1RBt9t_5igAlN1BlQAkVLwJ_rZXITy_pN?usp=sha
 ```bash
 python run_sampling.py \
   --train_module 'dvd' 
-  --train_name 'val_TDiff' --name "0918"
+  --train_name 'val_TDiff' --name "save_filename"
 ```
 
 #### Training code
