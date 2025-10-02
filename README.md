@@ -1,4 +1,4 @@
-## DvD: Unleashing a Generative Paradigm for Document Dewarping via Coordinates-based Diffusion Model 
+## DvD: Unleashing a Generative Paradigm for Document Dewarping via Coordinates-based Diffusion Model (SIGGRAPH Aisa 2025)
 
 <p align="center">
   <a href="https://drive.google.com/drive/folders/1WNMcXx4OApIy789F-iO3X2dJmmDUK_QI?usp=drive_link">
