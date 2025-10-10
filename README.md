@@ -63,7 +63,7 @@ https://drive.google.com/drive/folders/1WNMcXx4OApIy789F-iO3X2dJmmDUK_QI?usp=dri
 
 [https://drive.google.com/drive/folders/1NJZtaTh4erKFcXDcs1t1JyF2hc1EBOA3?usp=drive_link](https://huggingface.co/datasets/hanquansanren/AnyPhotoDoc6300)
 
-
+- 📄 [Usage Guide](./BENCHMARK.md) — Detailed description of benchmark
 
 ### Citation
 
