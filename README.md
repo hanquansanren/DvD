@@ -69,12 +69,14 @@ https://drive.google.com/drive/folders/1WNMcXx4OApIy789F-iO3X2dJmmDUK_QI?usp=dri
 
 If you use this model in your work, please cite the following paper:
 ```
-@article{zhang2025dvd,
-  title={DvD: Unleashing a Generative Paradigm for Document Dewarping via Coordinates-based Diffusion Model}, 
-  author={Weiguang Zhang and Huangcheng Lu and Maizhen Ning and Xiaowei Huang and Wei Wang and Kaizhu Huang and Qiufeng Wang},
-  year={2025},
-  journal={arXiv preprint arXiv:2505.21975},
-  primaryClass={cs.CV},
+@inproceedings{zhang2025dvd,
+author = {Weiguang Zhang and Huangcheng Lu and Maizhen Ning and Xiaowei Huang and Wei Wang and Kaizhu Huang and Qiufeng Wang},
+title = {DvD: Unleashing a Generative Paradigm for Document Dewarping via Coordinates-based Diffusion Model},
+year = {2025},
+publisher = {Association for Computing Machinery},
+doi = {https://doi.org/10.1145/3757377.3763913},
+booktitle = {SIGGRAPH Asia 2025 Conference Papers},
+series = {SA '25}
 }
 ```
 ### Acknowledgements
