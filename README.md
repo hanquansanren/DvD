@@ -37,6 +37,7 @@ To run the DVD model as shown above:
 #### Download link of Pretrained DvD model 
 https://drive.google.com/drive/folders/1RBt9t_5igAlN1BlQAkVLwJ_rZXITy_pN?usp=sharing
 
+All of the weight files should stored in folder "./checkpoints"
 
 #### Inference code
 ```bash
