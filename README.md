@@ -1,8 +1,8 @@
 ## DvD: Unleashing a Generative Paradigm for Document Dewarping via Coordinates-based Diffusion Model (SIGGRAPH Asia 2025)
 
 <p align="center">
-    <a href="[https://huggingface.co/spaces/hanquansanren/DvD]">
-    <img src="https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-Online Demo-B0EE90?style=flat" alt="Online Demo">
+  <a href="https://huggingface.co/spaces/hanquansanren/DvD">
+    <img src="https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-Online Demo-B0EE70?style=flat" alt="Online Demo">
   </a>
   <a href="https://drive.google.com/drive/folders/1WNMcXx4OApIy789F-iO3X2dJmmDUK_QI?usp=drive_link">
     <img src="https://img.shields.io/badge/Google Drive-Inference Results-orange?logo=google" alt="results">
@@ -10,7 +10,7 @@
   <a href="https://drive.google.com/drive/folders/1RBt9t_5igAlN1BlQAkVLwJ_rZXITy_pN?usp=sharing">
     <img src="https://img.shields.io/badge/Google Drive-Models-ffbd45?logo=google" alt="results">
   </a>
-  <a href="[https://huggingface.co/datasets/hanquansanren/AnyPhotoDoc6300](https://huggingface.co/datasets/hanquansanren/AnyPhotoDoc6300/tree/main)">
+  <a href="https://huggingface.co/datasets/hanquansanren/AnyPhotoDoc6300/tree/main">
     <img src="https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-Benchmark-90EE90?style=flat" alt="Benchmark">
   </a>
   <a href="https://arxiv.org/abs/2505.21975">
