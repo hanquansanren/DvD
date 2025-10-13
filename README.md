@@ -29,7 +29,7 @@ https://github.com/user-attachments/assets/a2c5bca3-1393-410f-b870-8e69142bc635
 
 ### Online Demo
 
-
+![Online Demo deployed in HuggingFace](https://github.com/hanquansanren/DvD/blob/master/asset/demo.png)(https://huggingface.co/spaces/hanquansanren/DvD)
 
 
 
