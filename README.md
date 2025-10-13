@@ -82,7 +82,7 @@ https://drive.google.com/drive/folders/1WNMcXx4OApIy789F-iO3X2dJmmDUK_QI?usp=dri
 
 - 📄 [Usage Guide](./BENCHMARK.md) — Detailed description of benchmark
 
-### 👀Citation
+### 🚀Citation
 
 If you use this model in your work, please cite the following paper:
 ```
@@ -96,7 +96,7 @@ booktitle = {SIGGRAPH Asia 2025 Conference Papers},
 series = {SA '25}
 }
 ```
-### 🍉Acknowledgements
+### ❤❤ Acknowledgements
 
 We sincerely thank the following projects, since our code is largely based on 
 [inv3d](https://github.com/FelixHertlein/inv3d),
