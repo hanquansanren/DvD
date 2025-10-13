@@ -27,13 +27,12 @@ https://github.com/user-attachments/assets/a2c5bca3-1393-410f-b870-8e69142bc635
 
 
 
-### Online Demo
+### 🍉 Online Demo
+You can have a quick trial through our [Online Demo](https://huggingface.co/spaces/hanquansanren/DvD) 
+![Online Demo deployed in HuggingFace](https://github.com/hanquansanren/DvD/blob/master/asset/demo.png)
 
-![Online Demo deployed in HuggingFace](https://github.com/hanquansanren/DvD/blob/master/asset/demo.png)(https://huggingface.co/spaces/hanquansanren/DvD)
 
-
-
-### Quick Start
+### ❤ Quick Start
 Before running the script, install the following dependencies:
 
 ```shell
@@ -41,7 +40,7 @@ pip install -r requirements.txt
 ```
 
 
-### How to play
+#### How to play
 To run the DVD model as shown above:
 
 #### Download link of Pretrained DvD model 
@@ -70,12 +69,12 @@ mpiexec -n 1 python run_training.py \
   --train_name 'train_TDiff' 
 ```
 
-### Download link of inference results in DocUNet and DIR300 benchmarks
+### 📝Download link of inference results in DocUNet and DIR300 benchmarks
 - Google Drive
   
 https://drive.google.com/drive/folders/1WNMcXx4OApIy789F-iO3X2dJmmDUK_QI?usp=drive_link
 
-### Download link of AnyPhotoDoc6300 benchmark dataset 
+### 📝 Download link of AnyPhotoDoc6300 benchmark dataset 
 
 - HuggingFace
 
