@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="[https://huggingface.co/spaces/hanquansanren/DvD]">
-    <img src="https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-Demo-90EE90?style=flat" alt="Online Demo">
+    <img src="https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-Online Demo-90AE90?style=flat" alt="Online Demo">
   </a>
   <a href="https://drive.google.com/drive/folders/1WNMcXx4OApIy789F-iO3X2dJmmDUK_QI?usp=drive_link">
     <img src="https://img.shields.io/badge/Google Drive-Inference Results-orange?logo=google" alt="results">
