@@ -74,10 +74,10 @@ class EnvironmentSettings:
         self.num_samples = 10000
         self.val_batch_size = 1
         self.use_ddim = False
-        self.model_path = 'checkpoints/stage_1_dit_cross_mix_2025-03-24-19-48-08-929885/model1852000.pt'
-        self.seg_model_path = "checkpoints/backup/seg.pth"
-        self.line_seg_model_path = 'checkpoints/backup/line_model2.pth' # 'checkpoints/backup/line_model2.pth' 'checkpoints/backup/30.pt'
-        self.new_seg_model_path = 'checkpoints/backup/seg_model.pth'  
+        self.model_path = 'checkpoints/model1852000.pt'
+        self.seg_model_path = "checkpoints/seg.pth"
+        self.line_seg_model_path = 'checkpoints/line_model2.pth' # 'checkpoints/backup/line_model2.pth' 'checkpoints/backup/30.pt'
+        self.new_seg_model_path = 'checkpoints/seg_model.pth'  
         self.timestep_respacing = ''
         self.n_batch = 2    # The number of multiple hypotheses
         self.visualize = True    # Set True, if you want qualitative results.
