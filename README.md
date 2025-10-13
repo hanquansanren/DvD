@@ -37,7 +37,14 @@ To run the DVD model as shown above:
 #### Download link of Pretrained DvD model 
 https://drive.google.com/drive/folders/1RBt9t_5igAlN1BlQAkVLwJ_rZXITy_pN?usp=sharing
 
-All of the weight files should stored in folder "./checkpoints"
+All of the weight files should stored in folder "./checkpoints", like below tree structure:
+```
+.checkpoints
+|-- model1852000.pt
+|-- line_model2.pth
+|-- seg.pth
+|-- seg_model.pth
+```
 
 #### Inference code
 ```bash
