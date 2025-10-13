@@ -7,6 +7,9 @@
   <a href="https://drive.google.com/drive/folders/1RBt9t_5igAlN1BlQAkVLwJ_rZXITy_pN?usp=sharing">
     <img src="https://img.shields.io/badge/Google Drive-Models-ffbd45?logo=google" alt="results">
   </a>
+  <a href="[[https://huggingface.co/datasets/hanquansanren/AnyPhotoDoc6300](https://huggingface.co/spaces/hanquansanren/DvD)](https://huggingface.co/datasets/hanquansanren/AnyPhotoDoc6300/tree/main)">
+    <img src="https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-Benchmark-90EE90?style=flat" alt="Benchmark">
+  </a>
   <a href="[https://huggingface.co/datasets/hanquansanren/AnyPhotoDoc6300](https://huggingface.co/datasets/hanquansanren/AnyPhotoDoc6300/tree/main)">
     <img src="https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-Benchmark-90EE90?style=flat" alt="Benchmark">
   </a>
